@@ -1,0 +1,4 @@
+Compiling...
+g++ -std=c++11 -g -Wall -c DataPoint.cpp
+g++ -std=c++11 -g -Wall -c DecisionTree.cpp
+Compile error
